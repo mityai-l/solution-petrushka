@@ -1,0 +1,36 @@
+{
+  "status": "success",
+  "timestamp": "2026-05-04T10:30:00Z",
+  "data": {
+    "stores": [
+      {
+        "id": "STORE_001",
+        "name": "Петрушка Зеленая – Ленина",
+        "address": "ул. Ленина, 15, ТЦ «Олимп», 1 этаж",
+        "image_url": "https://cdn.petrushka.ru/stores/lenina_15.jpg",
+        "working_hours": {
+          "weekdays": "09:00–21:00",
+          "weekend": "10:00–20:00"
+        },
+        "external_link": {
+          "url": "https://shop.partner.ru/petrushka/lenina15",
+          "open_in_external_browser": true
+        }
+      },
+      {
+        "id": "STORE_002",
+        "name": "Петрушка Зеленая – Петровский",
+        "address": "Петровский бульвар, 7",
+        "image_url": "https://cdn.petrushka.ru/stores/petrovsky_7.jpg",
+        "working_hours": {
+          "weekdays": "10:00–22:00",
+          "weekend": "11:00–20:00"
+        },
+        "external_link": {
+          "url": "https://2gis.ru/msk/firm/12345678",
+          "open_in_external_browser": true
+        }
+      }
+    ]
+  }
+}

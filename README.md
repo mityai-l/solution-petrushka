@@ -1,12 +1,18 @@
 # Тестовое задание: интернет-магазин «Петрушка Зеленая»
 
 ## О себе
+
 Выполнил тестовое задание на позицию **Системный аналитик**.
+
+---
 
 ## Выполненные задания
 
-| # | Задание | Файл |
-|---|---------|------|
-| 1 | Анализ требований | [analysis.md](https://github.com/mityai-l/solution-petrushka/blob/main/task1/analysis.md) |
-| 2 | Проектирование API | [stores-api.json](https://github.com/mityai-l/solution-petrushka/blob/main/task2/stores-api.json) |
-| 3 | Архитектура PUSH | [push-architecture.md](https://github.com/mityai-l/solution-petrushka/blob/main/task3/push-architecture.md) |
+| № | Задание | Краткое описание | Файл |
+|---|---------|------------------|------|
+| 1 | Анализ требований (корзина) | Найдены противоречия в ТЗ, предложена исправленная версия, сформулированы вопросы заказчику | [analysis.md](task1/analysis.md) |
+| 2 | Проектирование API | Разработан REST API для страницы магазинов партнеров, пример запроса и ответа в JSON | [stores-api.json](task2/stores-api.json) |
+| 3 | Архитектура PUSH-уведомлений | Построена верхнеуровневая архитектурная схема, описаны компоненты и их взаимодействие | [push-architecture.md](task3/push-architecture.md) |
+
+---
+
